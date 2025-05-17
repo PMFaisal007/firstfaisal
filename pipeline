@@ -1,0 +1,21 @@
+pipeline
+{
+agent any
+stages
+{
+stage('faisal1')
+{
+steps
+{
+echo 'test1'
+}
+}
+stage('faisal2')
+{
+steps
+{
+echo 'test2'
+}
+}
+}
+}

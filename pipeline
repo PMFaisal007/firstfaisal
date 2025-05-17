@@ -17,5 +17,12 @@ steps
 echo 'test2'
 }
 }
+stage('faisal3')
+{
+steps
+{
+echo 'test3'
+}
+}
 }
 }
